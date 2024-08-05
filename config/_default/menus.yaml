@@ -10,7 +10,7 @@ main:
   - name: 研究团队
     url: people
     weight: 20
-  - name: 原型系统
+  - name: 科研项目
     url: event
     weight: 30
   - name: 学术论文
