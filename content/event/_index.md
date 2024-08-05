@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: project
+  - block: hero
     content:
       title: 科研项目
       text: |-
