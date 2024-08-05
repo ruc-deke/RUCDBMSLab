@@ -6,6 +6,10 @@ title: 刘爽
 first_name: Shuang
 last_name: Liu
 
+# Username (this should match the folder name)
+authors:
+  - 刘爽
+
 # Is this the primary user of the site?
 superuser: false
 
