@@ -8,10 +8,10 @@ last_name: Lu
 
 # Username (this should match the folder name)
 authors:
-  - 卢卫
+  - admin
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: 教授，博士生导师
