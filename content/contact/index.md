@@ -14,7 +14,7 @@ sections:
         ## 实验室地址
         北京市海淀区中关村大街59号中国人民大学信息楼500        
         <div style="text-align: center;">
-        <img src="/assets/media/contact.jpg" alt="信息楼" style="width: 500px; height: 300px; object-fit: cover;">
+        <img src="contact.jpg" alt="信息楼" style="width: 500px; height: 300px; object-fit: cover;">
         </div>
 ---
 
