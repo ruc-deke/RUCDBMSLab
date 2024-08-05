@@ -268,4 +268,4 @@
 # Published with
 
 - id: published_with
-  translation: 网站基于开源项目开发
+  translation: 基于{repo_link}开源项目{/repo_link} {hugoblox}开发。
