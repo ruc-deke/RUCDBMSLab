@@ -11,7 +11,7 @@ baseURL: 'https://ruc-peng.github.io/' # Website URL
 ############################
 
 defaultContentLanguage: zh
-hasCJKLanguage: true
+hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
