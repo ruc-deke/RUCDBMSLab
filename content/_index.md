@@ -45,7 +45,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: contact2024.jpg
           filters:
             brightness: 1
           parallax: false
