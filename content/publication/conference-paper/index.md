@@ -9,11 +9,11 @@ authors:
   - 侯佳敏
 # Author notes (optional)
 
-date: '2024'
+date: '2024-08'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024'
+publishDate: '2024-08'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
