@@ -14,7 +14,7 @@ sections:
       columns: '1'
       background:
         image:
-          filename: competition2024.jpg
+          filename: competition2024.png
           filters:
             brightness: 1
           parallax: false
