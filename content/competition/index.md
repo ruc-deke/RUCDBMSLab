@@ -1,10 +1,12 @@
 ---
-title: 学科竞赛
+title: Contact
+date: 2022-10-24
 
 type: landing
 
 sections:
-  - block: contact
+  - block: markdown
+    id: section-1
     content:
       title: 学科竞赛
       text: |-
@@ -13,5 +15,4 @@ sections:
         RMDB由中国人民大学数据库教学团队开发，同时得到教育部-华为”智能基座”项目的支持，平台、赛题和测试用例等得到了全国大学生计算机系统能力大赛数据库管理系统赛道技术委员会的支持和审核。系统能力大赛专家组和[101计划数据库系统课程工作组](https://101.pku.edu.cn/courseDetails?id=DC767C683D697417E0555943CA7634DE)给予了指导。
 
         大赛将于每年暑假期间(6-8月)举行，欢迎感兴趣的同学参加，更多系统赛相关信息请查阅[大赛官网](https://db.educg.net/#/index?TYPE=DB_S)。
-
 ---
