@@ -14,8 +14,8 @@ sections:
         filename: welcome.jpg
       text: |
         <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+
+        中国人民大学数据库系统研究组（RUC DBMS Research Group）是由杜小勇教授所领导的研究与工程兼备的研究组，是数据工程与知识工程教育部重点实验室（DEKE）的重要组成部分，隶属于中国人民大学信息学院计算机系。实验室专注于数据库基础理论、大数据系统研制、云原生数据库等问题的研究，并取得了一系列重要研究成果，部分成果已应用于社会治理、企业应用等多个领域。欢迎有志的同学加盟！
   
   - block: collection
     content:

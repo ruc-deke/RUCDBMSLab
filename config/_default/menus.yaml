@@ -7,18 +7,21 @@ main:
   - name: Tour
     url: tour
     weight: 10
-  - name: News
+  - name: 新闻
     url: post
     weight: 20
-  - name: People
+  - name: 研究团队
     url: people
     weight: 30
-  - name: Events
+  - name: 原型系统
     url: event
     weight: 40
-  - name: Publications
+  - name: 学术论文
     url: publication
     weight: 50
-  - name: Contact
+  - name: 联系我们
     url: contact
     weight: 60
+  - name: 学科竞赛
+    url: competition
+    weight: 70
