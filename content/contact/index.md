@@ -11,10 +11,7 @@ sections:
     content:
       title: 联系我们
       text: |
-        ## 实验室地址
+        # 实验室地址
         北京市海淀区中关村大街59号中国人民大学信息楼500
-
-        <div style="text-align: center;">
-          <img src="contact2024.jpg" alt="信息楼" style="width: 500px; height: auto;">
-        </div>
+        欢迎通过邮件或线下联系我们！
 ---
