@@ -7,8 +7,8 @@ abstract: '面向跨域政务应用的数据治理体系与治理工具'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2020-10'
-date_end: '2023-09'
+date: '2020-10-01'
+date_end: '2023-09-30'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
