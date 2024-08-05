@@ -1,15 +1,17 @@
 ---
 title: 科研项目
+date: 2022-10-24
 
-# Listing view
-view: compact
+type: landing
 
-# Optional header image (relative to `assets/media/` folder).
-banner:
-  caption: ''
-  image: ''
+sections:
+  - block: project
+    content:
+      title: 科研项目
+      text: |-
+        重点研发计划
+        华为合作项目
+    design:
+      columns: '1'
+
 ---
-
-
-
-123
