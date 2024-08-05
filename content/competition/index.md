@@ -14,7 +14,7 @@ sections:
       columns: '1'
       background:
         image:
-          filename: contact.jgp
+          filename: contact.jpg
           filters:
             brightness: 1
           parallax: false
