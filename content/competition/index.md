@@ -1,30 +1,9 @@
 ---
-title: Contact
-date: 2022-10-24
+title: 学科竞赛
 
 type: landing
 
 sections:
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image:
-          filename: contact.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
-
   - block: contact
     content:
       title: 学科竞赛
