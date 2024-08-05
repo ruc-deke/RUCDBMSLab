@@ -64,7 +64,7 @@ sections:
       filters:
         folders:
           - publication
-        publication_type: 'conference-paper'
+        publication_type: 'paper-conference'
     design:
       view: citation
       columns: '1'
