@@ -11,7 +11,7 @@ sections:
         RUC DBMS
         Research Group
       image:
-        filename: welcome.jpg
+        filename: graduated2.jpg
       text: |
         <br>
 
