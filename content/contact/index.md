@@ -13,34 +13,9 @@ sections:
       text: |
         ## 实验室地址
         北京市海淀区中关村大街59号中国人民大学信息楼500        
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: contact.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-          style: |
-            .fullscreen {
-              position: relative;
-              width: 100%;
-              height: 0;
-              padding-top: 56.25%; /* 16:9 Aspect Ratio */
-              background-size: cover;
-              background-repeat: no-repeat;
-              background-position: center;
-            }
-      spacing:
-        padding: ['20px', '0', '20px', '0']
+        <div style="text-align: center;">
+        <img src="/assets/media/contact.jpg" alt="信息楼" style="width: 500px; height: 300px; object-fit: cover;">
+        </div>
 ---
 
 
