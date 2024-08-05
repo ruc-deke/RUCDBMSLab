@@ -3,8 +3,8 @@
 title: 刘爽
 
 # Full Name (for SEO)
-first_name: Shuang
-last_name: Liu
+first_name: B
+last_name: B
 
 # Username (this should match the folder name)
 authors:
