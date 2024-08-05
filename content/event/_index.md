@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: 科研项目
 
 # Listing view
 view: compact
