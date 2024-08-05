@@ -9,11 +9,11 @@ authors:
   - 侯佳敏
 # Author notes (optional)
 
-date: ''
+date: '2024'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: ''
+publishDate: '2024'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -39,14 +39,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: '1'
+url_pdf: ''
 url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
