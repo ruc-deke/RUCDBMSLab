@@ -21,7 +21,7 @@ sections:
     design:
       columns: '1'
       background:
-        image:
+        image: 
           filename: contact.jpg
           filters:
             brightness: 1
@@ -29,8 +29,19 @@ sections:
           position: center
           size: cover
           text_color_light: true
+          style: |
+            .fullscreen {
+              position: relative;
+              width: 100%;
+              height: 0;
+              padding-top: 56.25%; /* 16:9 Aspect Ratio */
+              background-size: cover;
+              background-repeat: no-repeat;
+              background-position: center;
+            }
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
 ---
+
 

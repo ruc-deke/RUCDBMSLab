@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: contact
     content:
-      title: Contact
+      title: 学科竞赛
       text: |-
         ## 全国大学生系统能力大赛数据库管理系统设计赛
         全国大学生计算机系统能力大赛数据库管理系统赛道，以培养学生“数据库管理系统内核实现”能力为目标。比赛为参赛队伍提供数据库管理系统代码框架[RMDB](https://gitlab.eduxiji.net/csc1/csc-db/db2024/-/tree/main/rmdb)，参赛队伍在RMDB的基础上，设计和实现一个完整的关系型数据库管理系统，该系统要求具备运行TPC-C基准测试（TPC-C是一个面向联机事务处理的测试基准）常用负载的能力。
