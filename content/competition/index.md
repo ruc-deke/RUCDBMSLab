@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: 学科竞赛
 date: 2022-10-24
 
 type: landing
