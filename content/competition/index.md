@@ -14,7 +14,7 @@ sections:
       columns: '1'
       background:
         image:
-          filename: contact.jpg
+          filename: graduate2.jpg
           filters:
             brightness: 1
           parallax: false

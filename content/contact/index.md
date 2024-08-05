@@ -1,6 +1,6 @@
 ---
 # Page title
-title: 科研项目
+title: 联系我们
 # Page type - we want a landing page (such as a homepage)
 type: landing
 
