@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} RUC DBMS Research Group.'
     license:
       enable: true
       allow_derivatives: false
