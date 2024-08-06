@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 杜小勇
+title: 庄琪钰
 
 # Full Name (for SEO)
 first_name: D
