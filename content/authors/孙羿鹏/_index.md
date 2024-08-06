@@ -3,8 +3,8 @@
 title: 孙羿鹏
 
 # Full Name (for SEO)
-first_name: D
-last_name: D
+first_name: E
+last_name: E
 
 # Username (this should match the folder name)
 authors:
