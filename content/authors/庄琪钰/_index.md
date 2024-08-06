@@ -3,8 +3,8 @@
 title: 庄琪钰
 
 # Full Name (for SEO)
-first_name: A
-last_name: A
+first_name: C
+last_name: C
 
 # Username (this should match the folder name)
 authors:

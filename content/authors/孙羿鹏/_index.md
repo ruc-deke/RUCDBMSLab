@@ -3,8 +3,8 @@
 title: 孙羿鹏
 
 # Full Name (for SEO)
-first_name: A
-last_name: A
+first_name: D
+last_name: D
 
 # Username (this should match the folder name)
 authors:
@@ -61,5 +61,4 @@ highlight_name: false
 user_groups:
   - 在读硕士生
 ---
-
 个人简介
