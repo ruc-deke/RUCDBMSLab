@@ -38,7 +38,7 @@ education:
     - course: 硕士
       institution: 中国人民大学
       year: 1985 - 1988
-    - course: 本科
+    - course: 学士
       institution: 杭州大学
       year: 1979 - 1983
 
