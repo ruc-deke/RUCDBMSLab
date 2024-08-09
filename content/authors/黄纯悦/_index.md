@@ -3,8 +3,8 @@
 title: 黄纯悦
 
 # Full Name (for SEO)
-first_name: D
-last_name: D
+first_name: 纯悦
+last_name: 黄
 
 # Username (this should match the folder name)
 authors:
@@ -25,7 +25,7 @@ organizations:
 bio: 个人简介
   
 interests:
-  - 支持多写的云原生数据库系统、分布式数据库系统
+  - 支持多写的云原生数据库系统和分布式数据库系统
   
 education:
   courses:
