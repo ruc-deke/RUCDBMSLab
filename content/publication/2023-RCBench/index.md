@@ -1,5 +1,5 @@
 ---
-title: 'AeonG: An Efficient Built-in Temporal Support in Graph Databases'
+title: 'RCBench: an RDMA-enabled transaction framework for analyzing concurrency control algorithms'
 profile: false
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
