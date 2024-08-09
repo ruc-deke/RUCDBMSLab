@@ -163,7 +163,7 @@
   translation: 摘要
 
 - id: publication
-  translation: 出版物
+  translation: 发表于
 
 - id: publication_type
   translation: 类型
@@ -215,7 +215,7 @@
   translation: 文章
 
 - id: publications
-  translation: 出版物
+  translation: 发表于
 
 - id: talks
   translation: 演讲
