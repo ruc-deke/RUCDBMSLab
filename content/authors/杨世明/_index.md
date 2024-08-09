@@ -37,7 +37,7 @@ education:
       year: 2020 - 2023
     - course: 学士
       institution: 本科就读学校
-      year: 2016-2020
+      year: 2016 - 2020
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
