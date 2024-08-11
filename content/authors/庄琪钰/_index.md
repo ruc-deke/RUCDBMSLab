@@ -3,8 +3,8 @@
 title: 庄琪钰
 
 # Full Name (for SEO)
-first_name: D
-last_name: D
+first_name: QiYu
+last_name: Zhuang
 
 # Username (this should match the folder name)
 authors:
@@ -25,7 +25,8 @@ organizations:
 bio: 个人简介
   
 interests:
-  - 研究兴趣
+  - Transaction processing (distributed database systems, could serverless, ...)
+  - Isolation levels 
   
 education:
   courses:
@@ -43,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:qyzhuang@ruc.edu.cn'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
