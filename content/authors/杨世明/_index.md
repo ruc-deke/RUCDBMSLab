@@ -3,8 +3,8 @@
 title: 杨世明
 
 # Full name (for SEO) 是用于网站排序的名字
-first_name: 世明
-last_name: 杨
+first_name: EShiMing
+last_name: EYang
 
 # Username (this should match the folder name) 需要和文件夹命名相同
 authors:

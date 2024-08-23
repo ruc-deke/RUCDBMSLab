@@ -3,8 +3,8 @@
 title: 丁正浩
 
 # Full Name (for SEO)
-first_name: 正浩
-last_name: 丁
+first_name: DZhengHao
+last_name: DDing
 
 # Username (this should match the folder name)
 authors:

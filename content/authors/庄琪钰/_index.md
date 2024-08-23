@@ -3,8 +3,8 @@
 title: 庄琪钰
 
 # Full Name (for SEO)
-first_name: QiYu
-last_name: Zhuang
+first_name: BQiYu
+last_name: BZhuang
 
 # Username (this should match the folder name)
 authors:

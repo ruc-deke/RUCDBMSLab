@@ -3,8 +3,8 @@
 title: 赵泓尧
 
 # Full Name (for SEO)
-first_name: 泓尧
-last_name: 赵
+first_name: AHongYao
+last_name: AZhao
 
 # Username (this should match the folder name)
 authors:
