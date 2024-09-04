@@ -1,6 +1,6 @@
 ---
 # Display name 是显示在实验室网站上的名字
-title: 杨世明1111
+title: 杨世明
 
 # Full name (for SEO) 是用于网站排序的名字
 first_name: EShiMing
