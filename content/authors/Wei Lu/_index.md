@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Wei Lu
+title: 卢卫
 
 # Full name (for SEO)
 first_name: B
