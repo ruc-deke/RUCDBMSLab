@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 博士二年级
+role: 2022级博士
 
 # Organizations/Affiliations
 organizations:

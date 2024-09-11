@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 硕士一年级
+role: 2023级硕士
 
 # Organizations/Affiliations
 organizations:
