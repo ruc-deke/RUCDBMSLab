@@ -50,7 +50,7 @@ jobs:
           HUGO_ENVIRONMENT: production
         run: |
           echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
-          hugo --minify --baseURL "https://ruc-deke.github.io/RUCDBMSLab.github.io/"
+          hugo --minify --baseURL "https://ruc-deke.github.io/RUCDBMSLab/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
