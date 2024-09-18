@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @article{杜小勇 2019 大数据管理系统的历史、现状与未来 ,
 author={杜小勇 and 卢卫 and 张峰},
 title={ 大数据管理系统的历史、现状与未来 },
@@ -8,4 +9,16 @@ volume={30},
 number={1},
 pages={127-141},
 month={1},
+=======
+@article{杜小勇 2019 大数据管理系统的历史、现状与未来 ,
+author={杜小勇 and 卢卫 and 张峰},
+title={ 大数据管理系统的历史、现状与未来 },
+organization={中国人民大学},
+journal={软件学报},
+year={2019},
+volume={30},
+number={1},
+pages={127-141},
+month={1},
+>>>>>>> 89bff7a7eb114d2757f40b065f90ce5bdf766de7
 }

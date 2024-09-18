@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @inproceedings{10.1145/3650212.3680360,
 author = {Suo, Chenyao and Chen, Junjie and Liu, Shuang and Jiang, Jiajun and Zhao, Yingquan and Wang, Jianrong},
 title = {Fuzzing MLIR Compiler Infrastructure via Operation Dependency Analysis},
@@ -14,4 +15,22 @@ numpages = {13},
 keywords = {Compiler Fuzzing, MLIR Compiler Infrastructure, Test Program Generation},
 location = {Vienna, Austria},
 series = {ISSTA 2024}
+=======
+@inproceedings{10.1145/3650212.3680360,
+author = {Suo, Chenyao and Chen, Junjie and Liu, Shuang and Jiang, Jiajun and Zhao, Yingquan and Wang, Jianrong},
+title = {Fuzzing MLIR Compiler Infrastructure via Operation Dependency Analysis},
+year = {2024},
+isbn = {9798400706127},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3650212.3680360},
+doi = {10.1145/3650212.3680360},
+abstract = {MLIR (Multi-Level Intermediate Representation) compiler infrastructure has gained widespread popularity in recent years. It introduces dialects to accommodate various levels of abstraction within the representation. Due to its fundamental role in compiler construction, it is critical to ensure its correctness. Recently, a grammar-based fuzzing technique (i.e., MLIRSmith) has been proposed for it and achieves notable effectiveness. However, MLIRSmith generates test programs in a random manner, which restricts the exploration of the input space, thereby limiting the overall fuzzing effectiveness. In this work, we propose a novel fuzzing technique, called MLIR. As complicated or uncommon data/control dependencies among various operations are often helpful to trigger MLIR bugs, it constructs the operation dependency graph for an MLIR program and defines the associated operation dependency coverage to guide the fuzzing process. To drive the fuzzing process towards increasing operation dependency coverage, MLIR then designs a set of dependency-targeted mutation rules. By applying MLIR to the latest revisions of the MLIR compiler infrastructure, it detected 63 previously unknown bugs, among which 38/48 bugs have been fixed/confirmed by developers.},
+booktitle = {Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis},
+pages = {1287–1299},
+numpages = {13},
+keywords = {Compiler Fuzzing, MLIR Compiler Infrastructure, Test Program Generation},
+location = {Vienna, Austria},
+series = {ISSTA 2024}
+>>>>>>> 89bff7a7eb114d2757f40b065f90ce5bdf766de7
 }
