@@ -1,0 +1,16 @@
+@inproceedings{10.1007/978-3-031-30675-4_9,
+author = {Hou, Jiamin and Lei, Yuhong and Peng, Zhe and Lu, Wei and Zhang, Feng and Du, Xiaoyong},
+title = {Efficient Anomaly Detection in&nbsp;Property Graphs},
+year = {2023},
+isbn = {978-3-031-30674-7},
+publisher = {Springer-Verlag},
+address = {Berlin, Heidelberg},
+url = {https://doi.org/10.1007/978-3-031-30675-4_9},
+doi = {10.1007/978-3-031-30675-4_9},
+abstract = {Property graphs are becoming increasingly popular for modeling entities, their relationships, and properties. Due to the computational complexity, users are seldom to build complex user-defined integrity constraints; worse, the systems often do not have the capabilities of defining complex integrity constraints. For these reasons, violation of the implicit integrity constraints widely exists and leads to various data quality issues in property graphs. In this paper, we aim to automatically extract abnormal graph patterns and efficiently mine all matches in large property graphs to the abnormal patterns that are taken as anomalies. For this purpose, we first propose a new concept namely CGPs(ConditionalGraphPatterns). CGPs have the capability of modeling anomalies in the property graph by capturing both abnormal graph patterns and the attribute (i.e., property) constraints. All matches to any abnormal CGP are taken as anomalies. To mine abnormal CGPs and their matches automatically and efficiently, we then propose an efficient parallel approach called ACGPMiner (AbnormalConditionalGraphPatternMiner). ACGPMiner follows the generation-and-validation paradigm and does the anomaly detection level by level. At each level i, we generate CGPs with i edges, validate whether CGPs are abnormal, and mine all matches to any abnormal CGPs. Further, we propose two optimizations, pre-search pruning to reduce the search space of match enumerations and a two-stage strategy for balancing the workload in distributed computing settings. Using real-life graphs, we experimentally show that our approach is feasible for anomaly detection in large property graphs.},
+booktitle = {Database Systems for Advanced Applications: 28th International Conference, DASFAA 2023, Tianjin, China, April 17–20, 2023, Proceedings, Part III},
+pages = {120–136},
+numpages = {17},
+keywords = {graph, abnormal data, parallel},
+location = {Tianjin, China}
+}
