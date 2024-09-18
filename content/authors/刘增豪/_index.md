@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position 这里在读同学写自己的年级即可，如博士一年级，硕士一年级
-role: 硕士一年级
+role: 2024级硕士
 
 # Organizations/Affiliations
 organizations:
