@@ -13,8 +13,8 @@ authors:
 # Is this the primary user of the site? #默认为false即可
 superuser: false
 
-# Role/position 这里在读同学写自己的年级即可，如博士一年级，硕士一年级
-role: 博士五年级
+# Role/position 这里在读同学写自己的年级即可，
+role: 2020级博士
 
 # Organizations/Affiliations
 organizations:
