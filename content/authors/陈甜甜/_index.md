@@ -1,20 +1,20 @@
 ---
 # Display name 是显示在实验室网站上的名字
-title: 向奎先
+title: 陈甜甜
 
 # Full name (for SEO) 是用于网站排序的名字
-first_name: 奎先
-last_name: 向
+first_name: 甜甜
+last_name: 陈
 
 # Username (this should match the folder name) 需要和文件夹命名相同
 authors:
-  - 向奎先
+  - 陈甜甜
 
 # Is this the primary user of the site? #默认为false即可
 superuser: false
 
-# Role/position 这里在读同学写自己的年级即可，如博士一年级，硕士一年级
-role: 2024级硕士
+# Role/position 这里在读同学写自己的年级即可，如2023级博士，2024级硕士
+role: 2023级硕士
 
 # Organizations/Affiliations
 organizations:
@@ -25,26 +25,26 @@ organizations:
 bio: 个人简介
 
 interests:
-  - 数据库系统
+  - AI4DB（自己的研究兴趣）
 
 education:
   courses:
     - course: 硕士
       institution: 中国人民大学 
-      year: 2024 - 
+      year: 2023 - 
     - course: 学士
-      institution: 北京邮电大学
-      year: 2020 - 2024
+      institution: 浙江财经大学
+      year: 2019 - 2023
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "false" icon pack, "envelope" icon, and a link in the
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
   - icon: envelope
-    icon_pack: false
+    icon_pack: fas
     # 这里改成自己的邮箱
-    link: 'mailto:xiangkuixian@ruc.edu.cn'
+    link: 'mailto:chenentt@ruc.edu.cn'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -58,7 +58,7 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - 在读硕士生
-  # 硕士改为在读硕士生 
+  # 硕士改为在读硕士生
 ---
 
-向奎先，中国人民大学2024级硕士生，主要研究领域为分布式数据库系统
+这里写个人简介
