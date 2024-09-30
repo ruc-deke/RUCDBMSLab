@@ -17,16 +17,11 @@ sections:
 
         中国人民大学数据库系统研究组是由卢卫教授所领导的研究与工程兼备的研究组。实验室专注于数据库基础理论、云原生数据库、数据库系统测试、AI4DB等问题的研究，并取得了一系列重要研究成果。
 
-  - block: markdown
-    content:
-      title: `研究方向介绍`
-      subtitle:
-      text: |
-        {# 数据库系统
-         # 数据库系统测试
-         # AI4DB}
-    design:
-      columns: '1'
+        <h1>数据库系统</h1>
+
+        数据库系统测试
+
+        AI4DB
   
   - block: collection
     content:
