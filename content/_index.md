@@ -19,7 +19,7 @@ sections:
 
   - block: markdown
     content:
-      title: `研究具体介绍`
+      title: `研究方向介绍`
       subtitle:
       text: |
         {# 数据库系统
